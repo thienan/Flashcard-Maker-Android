@@ -1,5 +1,9 @@
 # Flashcard-Maker-Android
-Flashcard Maker - open source android application that helps students make flashcards
+Flashcard Maker - open source android application that helps students study using flashcards. 
+
+![alt text](https://github.com/AbduazizKayumov/Flashcard-Maker-Android/blob/master/art/main.png)
+![alt text](https://github.com/AbduazizKayumov/Flashcard-Maker-Android/blob/master/art/nav.png)
+![alt text](https://github.com/AbduazizKayumov/Flashcard-Maker-Android/blob/master/art/stats.png)
 
 It is available on Google Play:
     
