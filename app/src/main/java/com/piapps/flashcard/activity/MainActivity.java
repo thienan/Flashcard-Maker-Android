@@ -32,6 +32,7 @@ import com.piapps.flashcard.fragment.TodoFragment;
 import com.piapps.flashcard.fragment.TrashFragment;
 import com.zookey.universalpreferences.UniversalPreferences;
 
+import java.math.BigDecimal;
 import java.util.List;
 
 import butterknife.BindView;

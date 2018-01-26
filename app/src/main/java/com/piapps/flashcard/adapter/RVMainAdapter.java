@@ -211,7 +211,9 @@ public class RVMainAdapter extends RecyclerView.Adapter<RVMainAdapter.ViewHolder
                 this.id = id;
                 done.setText(count + " " + itemView.getContext().getResources().getString(R.string.flashcards));
                 //set the color to imageView
-                imageView.setBackgroundColor(Color.parseColor(cardColor));
+
+                if (!cardColor.isEmpty())
+                    imageView.setBackgroundColor(Color.parseColor(cardColor));
 
                 if (labelText.equals(Utils.LABEL_IMPORTANT))
                     label.setImageResource(R.drawable.ic_important_24dp);
